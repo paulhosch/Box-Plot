@@ -2,8 +2,8 @@
 # Simple Box Plot Creation using Matplotlib and VS Code
 
 This repository contains instructions and a Python script for creating simple box plots using Matplotlib. 
-![Figure_8](https://github.com/paulhosch/Box-Plot/assets/39274609/fc94c289-b5b2-42e8-bb8b-aeae587ee448)
-
+<img src="https://github.com/paulhosch/Box-Plot/assets/39274609/fc94c289-b5b2-42e8-bb8b-aeae587ee448" width="250" alt="Example of a box plot created using this script">
+*Example of a box plot created using this script.*
 
 ## Setup
 
