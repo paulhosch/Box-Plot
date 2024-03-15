@@ -1,7 +1,9 @@
 
 # Simple Box Plot Creation using Matplotlib and VS Code
 
-This repository contains a Python script for creating simple box plots using Matplotlib. It demonstrates how to preprocess data, customize the appearance of the box plots, and execute the script within Visual Studio Code (VS Code).
+This repository contains instructions and a Python script for creating simple box plots using Matplotlib. 
+![Figure_8](https://github.com/paulhosch/Box-Plot/assets/39274609/fc94c289-b5b2-42e8-bb8b-aeae587ee448)
+
 
 ## Setup
 
@@ -89,5 +91,6 @@ SFM new;SFM crumpled;FFP2 folded;FFP2 open;RFM
 
 ## Run and Customize the Script
 
-Navigate to `boxPlotMain.py` in the VS Code Editor. Update the `data_file_path` and `save_path` variables in the script to point to the correct locations on your system. You can also adjust the plot's appearance as desired. To run the script, simply press the run button in VS Code.
+Navigate to `boxPlotMain.py` in the VS Code Editor. Update the `data_file_path` and `save_path` variables in the script to point to the correct locations on your system. You can also adjust the plot's appearance as desired. I highly recomend doing so with the help of chatGPT or Copiolot, simply copy and paste the main script and prompt the requested changes. 
+To run the script, simply press the run button in VS Code.
 
